@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-**Mr Shaman** is a ✨ _special_ ✨ repository because its appears on your GitHub profile.
+**Giác Minh Báu** is a ✨ _special_ ✨ repository because its appears on your GitHub profile.
 
-![MrShaman's Stats](https://github-readme-stats.vercel.app/api?username=mrshaman93&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![MrShaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrshaman93&theme=dark&hide_border=true)
-![MrShaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshaman93&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Giác Minh Báu's Stats](https://github-readme-stats.vercel.app/api?username=thichgiacminhbau&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Giác Minh Báu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thichgiacminhbau&theme=dark&hide_border=true)
+![Giác Minh Báu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thichgiacminhbau&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 Here are some ideas to get you started:
 
